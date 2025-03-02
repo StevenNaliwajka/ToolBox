@@ -4,7 +4,7 @@
 -----
 ## Packages:
 [Generic_VENV_Manager](https://github.com/StevenNaliwajka/Generic_VENV_Manger) - VENV Creation and run scripts with it  
-[Generic_FILE_IO](https://github.com/StevenNaliwajka/Generic_FILE_IO) - Eventual Generic support for fileIO, in depth support for csv,env,json
+[Generic_FILE_IO](https://github.com/StevenNaliwajka/Generic_FILE_IO) - Eventual Generic support for fileIO, in depth support for csv,env,json  
 [Generic_Contact_Manager](https://github.com/StevenNaliwajka/Generic_Contact_Manager) - Bulk email/text messages  
 [Generic_MY_SQL_Manager](https://github.com/StevenNaliwajka/Generic_MY_SQL_Manager) - Installs and manages local mySQL DB
 
