@@ -6,6 +6,7 @@
 [Generic_VENV_Manager](https://github.com/StevenNaliwajka/Generic_VENV_Manger) - VENV Creation and run scripts with it  
 [Generic_ENV_Manager](https://github.com/StevenNaliwajka/Generic_ENV_Manager) - ENV file: create/read/update/delete  
 [Generic_JSON_Manager](https://github.com/StevenNaliwajka/Generic_JSON_Manager) - JSON file: create/read/update/delete  
+[Generic_CSV_Manager](https://github.com/StevenNaliwajka/Generic_CSV_Manger) - CSV file: create/read/update/delete
 [Generic_Contact_Manager](https://github.com/StevenNaliwajka/Generic_Contact_Manager) - Bulk email/text messages  
 [Generic_MY_SQL_Manager](https://github.com/StevenNaliwajka/Generic_MY_SQL_Manager) - Installs and manages local mySQL DB
 
