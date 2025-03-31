@@ -20,5 +20,5 @@
 
 -----
 ## Networking:
-[NginxDeployer](https://github.com/StevenNaliwajka/NginxDeployer) - Deploys Nginx + Certbot
+[NginxDeployer](https://github.com/StevenNaliwajka/NginxDeployer) - Deploys Nginx(Reverse prox/Host) + Certbot  
 [NetworkManager](https://github.com/StevenNaliwajka/NetworkManager) - Central Pfsense + Cloudflare DNS automation.
