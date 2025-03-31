@@ -17,3 +17,8 @@
 [TVWSDataScraper](https://github.com/StevenNaliwajka/TVWSDataScraper) - Webscraper for TVWS radios  
 [GIFtoASCI-GIF](https://github.com/StevenNaliwajka/GIFtoASCI-GIF) - Converts GIFs to ASCI equivalents  
 [PCInitScriptGenerator](https://github.com/StevenNaliwajka/PCInitScriptGenerator) - Install Script on fresh PC boot
+
+-----
+## Networking:
+[NginxDeployer](https://github.com/StevenNaliwajka/NginxDeployer) - Deploys Nginx + Certbot
+[NetworkManager](https://github.com/StevenNaliwajka/NetworkManager) - Central Pfsense + Cloudflare DNS automation.
